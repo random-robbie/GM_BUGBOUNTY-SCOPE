@@ -1,0 +1,11 @@
+Content-Length: 1468
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:52:41 GMT
+Proxy-Agent: Oracle-iPlanet-Web-Server/7.0
+Server: DRMP Web Server
+Via: 1.1 https-card
+Www-Authenticate: Basic realm="WebLogic Server"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Servlet/2.5 JSP/2.1
+X-Xss-Protection: 1; mode=block

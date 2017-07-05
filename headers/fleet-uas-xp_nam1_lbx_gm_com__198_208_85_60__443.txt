@@ -1,0 +1,10 @@
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Length: 5223
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 15:07:35 GMT
+Keep-Alive: timeout=5, max=100
+Server: Apache/2.4.12 (Unix) OpenSSL/1.0.1m
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImxqWUFLYncrb0x3c3JcL291UHJyS1BRPT0iLCJ2YWx1ZSI6Imx3TGtTbTFnblpNdjQxXC9obGhqR0ZQVkRNR01Vd05EenlYWk42eFRhbCtVZGUxbXY1aVZXcnpkSVwvaEErb2VVV2NLOUdwWDFUK0ZPV3RaQU9OWDQySXc9PSIsIm1hYyI6ImRmOGM0YjQ0NzMwMTI3YzFlNmI0NzRjM2ZhMjZlMDQwY2ViMjFkYjE1NWU0ZjY2MmFjMzMxMDVkZjhiNTgzMTIifQ%3D%3D; expires=Wed, 05-Jul-2017 17:07:35 GMT; Max-Age=7200; path=/;HttpOnly;Secure laravel_session=eyJpdiI6Ik54amdNVHZnVGtheWVXN3lUa1NWQlE9PSIsInZhbHVlIjoiXC9jQ1FpXC96Z2VBY1NSeUVrSWkxT3F1ZkdVeXdIOEJPYklFb0J5b1JnR1V4c0dFUFB3a1dxY3pTMFl6MjFmV0RUalo4MEhnUG1ONmpnamVNUHZZS2pLUT09IiwibWFjIjoiNDViMzg4OWYzMWNjYzE2ZDZlZjU2ZWM0ODZmNmFjNDAzMTczZDY4N2YwODQxMDQ4ZWU1OWE0NDQwZGM5ZjBlNyJ9; expires=Wed, 05-Jul-2017 17:07:35 GMT; Max-Age=7200; path=/; httponly;HttpOnly;Secure
+X-Frame-Options: SAMEORIGIN
+X-Serverid: W4

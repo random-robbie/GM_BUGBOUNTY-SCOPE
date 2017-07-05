@@ -1,0 +1,8 @@
+Accept-Ranges: bytes
+Connection: close
+Content-Language: en
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 05 Jul 2017 14:43:02 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Vary: accept-language,accept-charset

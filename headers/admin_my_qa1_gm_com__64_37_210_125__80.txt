@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Length: 130
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:29:01 GMT
+Etag: "2800a-82-f36dc3c0"
+Keep-Alive: timeout=60, max=100
+Last-Modified: Wed, 10 Dec 2014 16:14:15 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

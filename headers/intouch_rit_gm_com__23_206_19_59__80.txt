@@ -1,0 +1,8 @@
+Connection: keep-alive
+Content-Length: 272
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:36:45 GMT
+Expires: Wed, 05 Jul 2017 14:36:45 GMT
+Mime-Version: 1.0
+Server: AkamaiGHost
+Set-Cookie: PD-H-SESSION-ID=0nE7sUTmrpnY8or0qMacPp4gj6wenNZd0Em8Bftf7Sa4gt2P; path=/; domain=intouch.rit.gm.com; secure

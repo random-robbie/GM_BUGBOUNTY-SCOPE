@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Length: 1099
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:58:12 GMT
+Etag: "2bad-44b-51e26fca7d000"
+Keep-Alive: timeout=10, max=100
+Last-Modified: Tue, 25 Aug 2015 18:34:40 GMT
+X-Frame-Options: SAMEORIGIN

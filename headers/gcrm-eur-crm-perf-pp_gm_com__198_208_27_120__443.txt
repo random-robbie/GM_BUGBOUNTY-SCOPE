@@ -1,0 +1,8 @@
+Accept-Ranges: bytes
+Cache-Control: max-age=172800
+Content-Length: 16
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:51:41 GMT
+Etag: "84f5bfcb502dd11:0",ASP.NET
+Last-Modified: Wed, 02 Dec 2015 22:28:40 GMT
+Server: Microsoft-IIS/7.5

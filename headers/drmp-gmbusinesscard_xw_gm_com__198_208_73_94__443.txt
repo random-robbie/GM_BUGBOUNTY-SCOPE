@@ -1,0 +1,6 @@
+Access-Control-Allow-Headers: Cache-Control
+Access-Control-Allow-Origin: *
+Date: Wed, 05 Jul 2017 14:52:27 GMT
+Server: DRMP Web Server
+Transfer-Encoding: chunked
+X-Frame-Options: SAMEORIGIN

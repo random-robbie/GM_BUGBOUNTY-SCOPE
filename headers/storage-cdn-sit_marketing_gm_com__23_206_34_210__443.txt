@@ -1,0 +1,13 @@
+Cache-Control: private, max-age=7775964
+Connection: keep-alive
+Content-Length: 3316
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 14:23:09 GMT
+Server: Microsoft-IIS/8.5
+Set-Cookie: gm_ds_sess=bebfaca3053a40aba5bc55614f3ddf14; expires=Wed, 05-Jul-2017 14:38:08 GMT; path=/; secure; HttpOnly
+X-Content-Type-Options: nosniff
+X-Ds-Server: R018
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ARR/2.5
+X-Rp: 1
+X-Rpp: 4

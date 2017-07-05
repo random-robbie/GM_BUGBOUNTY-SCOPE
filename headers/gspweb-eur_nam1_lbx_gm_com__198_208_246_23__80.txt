@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Content-Length: 1470
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 15:01:03 GMT
+Last-Modified: Tue, 20 Jun 2017 04:38:50 GMT
+Proxy-Agent: Oracle-iPlanet-Web-Server/7.0
+Server: Oracle-iPlanet-Web-Server/7.0
+Via: 1.1 https-gsp2
+X-Powered-By: Servlet/3.0 JSP/2.2

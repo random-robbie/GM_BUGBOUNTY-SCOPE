@@ -1,0 +1,8 @@
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 2231
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:29:57 GMT
+Etag: "49b6bba8-1-8b7-50940d69"
+Last-Modified: Fri, 02 Nov 2012 18:14:01 GMT
+Server: Netscape-Enterprise/6.0

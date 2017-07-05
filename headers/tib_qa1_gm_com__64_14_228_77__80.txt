@@ -1,0 +1,7 @@
+Connection: close
+Content-Length: 0
+Content-Type: text/plain
+Date: Wed, 05 Jul 2017 15:00:21 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Www-Authenticate: Basic realm="SCRealm"

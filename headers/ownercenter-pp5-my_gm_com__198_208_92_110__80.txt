@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Content-Length: 129
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:44:04 GMT
+Etag: "81-54877590"
+Last-Modified: Tue, 09 Dec 2014 22:20:00 GMT
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: X-DC=W; path=/ BIGipServergoc1-pp-multi=3173109958.36895.0000; path=/
+X-Frame-Options: SAMEORIGIN

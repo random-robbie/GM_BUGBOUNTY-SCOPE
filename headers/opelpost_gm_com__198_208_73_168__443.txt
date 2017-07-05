@@ -1,0 +1,12 @@
+Cache-Control: no-cache, must-revalidate, max-age=0
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:50:29 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Keep-Alive: timeout=15, max=100
+Link: <https://opelpost.com/wp-json/>; rel="https://api.w.org/"
+Pragma: no-cache
+Server: Apache
+Set-Cookie: opel_language=en_GB; expires=Fri, 04-Aug-2017 14:50:31 GMT; path=/;HttpOnly;Secure show_selector=true; expires=Fri, 04-Aug-2017 14:50:31 GMT; path=/;HttpOnly;Secure opel_category=1; expires=Fri, 04-Aug-2017 14:50:31 GMT; path=/;HttpOnly;Secure
+Transfer-Encoding: chunked
+X-Frame-Options: SAMEORIGIN

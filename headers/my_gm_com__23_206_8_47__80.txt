@@ -1,0 +1,9 @@
+Connection: keep-alive
+Content-Language: en
+Content-Length: 5638
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:24:40 GMT
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE=en; path=/; secure
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Servlet/2.5 JSP/2.1

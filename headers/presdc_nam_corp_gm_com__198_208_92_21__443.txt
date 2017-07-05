@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Content-Length: 107
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:39:45 GMT
+Etag: "067c3f7456fc21:0"
+Last-Modified: Wed, 09 Oct 2002 03:43:02 GMT
+Server: Microsoft-IIS/7.5
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET

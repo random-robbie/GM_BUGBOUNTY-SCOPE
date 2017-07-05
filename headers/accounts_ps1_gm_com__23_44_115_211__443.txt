@@ -1,0 +1,8 @@
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 05 Jul 2017 14:56:08 GMT
+Set-Cookie: BIGipServer~STG-T2~accounts.ps1.gm.com=rd1o00000000000000000000ffff0a501205o181;secure; path=/ TS01dd0c29=01ec9bc5eb67f1ca5646b17c8810346ab1a9f949d731ef52429fde76dc5ed7d4a91f2216694a274b728dc49979d9f69c6b0babe74f; Path=/
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Www-Authenticate: Basic realm="SCRealm"
+X-Akamai-Staging: ESSL

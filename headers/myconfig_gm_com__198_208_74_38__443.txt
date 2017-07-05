@@ -1,0 +1,8 @@
+Accept-Ranges: bytes
+Content-Length: 77
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 15:03:19 GMT
+Etag: "4d-55948a23"
+Last-Modified: Thu, 02 Jul 2015 00:47:31 GMT
+Server: Oracle-iPlanet-Web-Server/7.0
+X-Frame-Options: SAMEORIGIN

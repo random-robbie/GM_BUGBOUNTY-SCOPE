@@ -1,0 +1,7 @@
+Connection: Keep-Alive
+Content-Length: 1240
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:21:57 GMT
+Keep-Alive: timeout=15, max=99
+Server: Apache
+X-Frame-Options: SAMEORIGIN

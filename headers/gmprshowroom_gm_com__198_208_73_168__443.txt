@@ -1,0 +1,8 @@
+Connection: Keep-Alive
+Content-Length: 1240
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 15:00:18 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache
+Set-Cookie: JSESSIONID=0432F3A597F55D8271E1F03B14D73527; Path=/prshowroom/; Secure; HttpOnly;HttpOnly;Secure
+X-Frame-Options: SAMEORIGIN

@@ -1,0 +1,8 @@
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Language: en
+Content-Length: 1011
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 05 Jul 2017 14:43:19 GMT
+Server: Apache
+Vary: accept-language,accept-charset

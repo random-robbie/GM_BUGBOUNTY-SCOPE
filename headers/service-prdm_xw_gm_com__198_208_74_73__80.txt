@@ -1,0 +1,7 @@
+Accept-Ranges: bytes
+Content-Length: 12175
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:53:53 GMT
+Etag: "2f8f-55cccdf1"
+Last-Modified: Thu, 13 Aug 2015 17:03:45 GMT
+Server: Oracle-iPlanet-Web-Server/7.0

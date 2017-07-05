@@ -1,0 +1,7 @@
+Connection: close
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:40:52 GMT
+Server: Oracle-iPlanet-Web-Server/7.0
+Vary: accept-encoding
+Www-Authenticate: Basic realm="Oracle iPlanet Web Server"

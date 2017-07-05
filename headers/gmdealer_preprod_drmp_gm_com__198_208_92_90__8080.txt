@@ -1,0 +1,11 @@
+Content-Length: 1039
+Content-Type: text/html; charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:53:05 GMT
+Proxy-Agent: Oracle-iPlanet-Web-Server/7.0
+Server: DRMP Web Server
+Set-Cookie: ipnt-dealer-cookie=5vQTPYcd32ypaAI5SzrXkpDl69wI5eUBwPMe_j_BZ4YDWLHFBYCX!2043836787!1187123588; path=/; secure; HttpOnly reverse-ipnt-dealer-cookie=BZHSK6DYdC3HE+mG; path=/; secure; HttpOnly
+Via: 1.1 https-card-D2
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Servlet/2.5 JSP/2.1
+X-Xss-Protection: 1; mode=block

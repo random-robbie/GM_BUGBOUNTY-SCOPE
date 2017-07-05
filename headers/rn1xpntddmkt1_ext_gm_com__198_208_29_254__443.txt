@@ -1,0 +1,10 @@
+Cache-Control: no-cache, no-store
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 12:10:10 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Keep-Alive: timeout=150
+Pragma: no-cache
+Set-Cookie: JSESSIONID=zn331dmqnaqf1b15jhqrmz0il;Path=/;HttpOnly; secure
+Transfer-Encoding: chunked
+X-Frame-Options: deny

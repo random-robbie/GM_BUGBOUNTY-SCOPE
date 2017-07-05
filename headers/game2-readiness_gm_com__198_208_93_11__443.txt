@@ -1,0 +1,13 @@
+Accept-Ranges: bytes
+Cache-Control: public public
+Connection: Keep-Alive
+Content-Language: en
+Content-Length: 0
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:49:04 GMT
+Etag: "5a6e2-0-51d3709994640"
+Keep-Alive: timeout=5, max=100
+Last-Modified: Thu, 13 Aug 2015 20:18:25 GMT
+Pragma: public public
+Server: Oracle-HTTP-Server-11g
+Set-Cookie: OAMAuthnHintCookie=0@1499266144; httponly; secure; path=/; domain=.gm.com OAMAuthnCookie_game2-readiness.gm.com:443=4mmccNjbm5IrkNAg4kS%2BLKqtDtgD6OH4Y0gRrWulArsyF%2FcIi5K8gkhLMftZjTGGLvY%2BI6BUtD2JQFL6a%2BReWVFPMK72Eo7RXJhO0qC9WnNXfucjs3uX7JzbSmruKOa4qePP19Bf1f%2FoHAtc4NmFuB5n7PVd6tB%2FzBDMyxmL%2F1P3j%2Fm8%2BEhJJzwkOJljTTd2Bf9ZMslDW%2FQPyTaVFflCi2X%2FeQGQERrO6HFkY%2FFJW3MmImVoSmNCka9UBG8zcIQ4lwLjEoELxt6IoSZqTeNdsySZiGz2qB502L8se3rjl0Cwe%2Fw%2Fnfc8TIVJtzS%2FDxgC; httponly; secure; path=/ OAMAuthnHintCookie=0@1499266144; httponly; secure; path=/; domain=.gm.com OAMAuthnCookie_game2-readiness.gm.com:443=lCShNFxbCEvQrlcIfyZ4crx5o8IFatsuTEl1o6VyOkKgRXRsZhCgoe5I6nWa8QH3GLVn3BSAjennflH8%2BtmCX4h5hhUxrjHOjNgzdb0cQP5XC%2BRcbEFDE2SKlgL75BWjg6zA%2Bd%2F%2FYojUyNZ87IjGKGaQffS7wXJ3bf2wjpy0%2FznLyGkYkjRDJNGGMifZ9s2hONKfgn2PS9LgVpzPbRrAcYP%2BubU8OxPydLcn6lJrGSS%2Fn8NFC728jAQetxwyalxLgb9QYbrBf8LI%2BPyFyTB9pxtby9peT284GUNTEus0bPRC8lHpEfj7VVvlqcm97GwF; httponly; secure; path=/

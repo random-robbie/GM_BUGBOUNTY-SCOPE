@@ -1,0 +1,9 @@
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Length: 286
+Content-Type: text/html;charset=utf-8
+Date: Wed, 05 Jul 2017 14:37:44 GMT
+Keep-Alive: timeout=15, max=100
+Pragma: no-cache
+Server: Apache
+Set-Cookie: BIGipServerauth-wpsegment3-pp-443=2501955782.47873.0000; path=/

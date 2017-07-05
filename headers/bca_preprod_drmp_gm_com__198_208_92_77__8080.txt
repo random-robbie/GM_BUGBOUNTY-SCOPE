@@ -1,0 +1,8 @@
+Content-Length: 223
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:48:01 GMT
+Server: DRMP Web Server
+Www-Authenticate: Basic realm="Oracle iPlanet Web Server"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

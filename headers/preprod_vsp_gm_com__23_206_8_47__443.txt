@@ -1,0 +1,14 @@
+Am_client_type: genericHTML
+Cache-Control: private
+Connection: keep-alive
+Content-Length: 14942
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 05 Jul 2017 14:21:51 GMT
+Expires: 0
+Pragma: no-cache
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: amlbVSPPPDCT=vsp.dct.pp.01; Domain=.gm.com; Path=/; Secure JSESSIONID=9D2A741F1478A96DEEAC1E5523727092; Path=/gmentsso; Secure; HttpOnly AMAuthVSPPPDCT=AQIC5wM2LY4SfcxvoFCdGdUtgxtytd4kp%2FnsGVVTDNtVwXA%3D%40AAJTSQACMDUAAlNLAAstMTY4MDE0NzExOAACUzEAAjAx%23; Domain=.gm.com; Path=/; Secure SAMORIGIN=wp5-wpfarm3.pp.xw.gm.com; path=/; secure LATS=1499264511; path=/; domain=.gm.com
+Vary: Accept-Encoding
+X-Dsameversion: Oracle OpenSSO 8.0 Update 2 Patch4 Build 6.1(2012-January-18 11:03)
+X-Frame-Options: SAMEORIGIN
+X-Wp-Session: wp5-wpfarm3.pp.xw.gm.com

@@ -1,0 +1,9 @@
+Connection: keep-alive Transfer-Encoding
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 15:00:04 GMT
+Etag: W/"7ba930-1cde5-5539308e3d480"
+Last-Modified: Wed, 05 Jul 2017 14:44:18 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN

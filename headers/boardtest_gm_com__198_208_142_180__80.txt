@@ -1,0 +1,12 @@
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Connection: close
+Content-Length: 102
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:39:47 GMT
+Server: Apache
+Set-Cookie: ;HttpOnly;Secure ;HttpOnly;Secure JSESSIONID=c+RbvP98hHsFmrjsecjVZOUi.hc1; Path=/; Secure; HttpOnly;HttpOnly;Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Unique_response_hash: GpqGdq9OVJ7Y6iEN
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Content-Length: 2354
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:34:51 GMT
+Etag: "932-46940302"
+Last-Modified: Tue, 10 Jul 2007 22:06:58 GMT
+Server: DRMP Web Server
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

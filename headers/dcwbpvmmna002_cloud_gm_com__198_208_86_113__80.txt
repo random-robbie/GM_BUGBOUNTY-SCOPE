@@ -1,0 +1,6 @@
+Connection: close
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 05 Jul 2017 14:34:57 GMT
+Server: Apache
+Set-Cookie: HttpOnly;Secure
+Transfer-Encoding: chunked

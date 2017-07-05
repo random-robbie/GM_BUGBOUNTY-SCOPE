@@ -1,0 +1,7 @@
+Accept-Ranges: bytes
+Content-Length: 3507
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:28:46 GMT
+Etag: "db3-54f85f90"
+Last-Modified: Thu, 05 Mar 2015 13:52:16 GMT
+Server: Oracle-iPlanet-Web-Server/7.0

@@ -1,0 +1,8 @@
+Cache-Control: private
+Content-Length: 47566
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 14:56:37 GMT
+Server: Microsoft-IIS/8.5
+Set-Cookie: locale=nl-BE; expires=Fri, 04-Aug-2017 14:56:37 GMT; path=/; secure; HttpOnly host=opel-be.gm.com; expires=Fri, 04-Aug-2017 14:56:37 GMT; path=/; secure; HttpOnly __RequestVerificationToken=yfrjcSHC4Lc1FI0GUFqbTI6D8eMNIbu0xD1lzebSctWz8CMdJm8Q92v7Rkn_QsUr_yRHP-CG6Xjl8_up-pI9AkzHbno1; path=/; secure; HttpOnly
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN SAMEORIGIN

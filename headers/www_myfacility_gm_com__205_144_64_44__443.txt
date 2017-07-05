@@ -1,0 +1,6 @@
+Connection: close
+Content-Length: 315
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 05 Jul 2017 14:51:52 GMT
+Server: Microsoft-HTTPAPI/2.0
+Set-Cookie: BIGipServerOVSC_pool=2889880586.20480.0000; path=/; Httponly; Secure

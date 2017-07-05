@@ -1,0 +1,5 @@
+Connection: close
+Content-Length: 0
+Content-Type: text/plain;
+Date: Wed, 05 Jul 2017 14:51:09 GMT
+Server: Apache-Coyote/1.1

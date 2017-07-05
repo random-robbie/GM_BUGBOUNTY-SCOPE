@@ -1,0 +1,12 @@
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Content-Length: 1590
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 15:00:26 GMT
+Etag: "04459d758e5d21:0"
+Last-Modified: Wed, 14 Jun 2017 21:54:48 GMT
+Server: Microsoft-IIS/8.5
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ARR/2.5
+X-Rpp: 2

@@ -1,0 +1,13 @@
+Connection: Keep-Alive
+Content-Language: en
+Content-Length: 4219
+Content-Location: login.php
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 15:07:03 GMT
+Keep-Alive: timeout=15, max=500
+Server: Apache
+Set-Cookie: tandberg_login=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; secure; httponly tandberg_user=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; secure; httponly
+Strict-Transport-Security: max-age=31556926; includeSubDomains
+Tcn: choice
+Vary: negotiate
+X-Frame-Options: sameorigin

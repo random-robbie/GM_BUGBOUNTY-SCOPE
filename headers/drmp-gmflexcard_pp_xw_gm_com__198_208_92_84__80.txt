@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Content-Length: 9603
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:34:31 GMT
+Etag: "2583-58fa1741"
+Last-Modified: Fri, 21 Apr 2017 14:29:21 GMT
+Server: DRMP Web Server
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

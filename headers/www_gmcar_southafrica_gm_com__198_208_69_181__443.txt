@@ -1,0 +1,17 @@
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:36:06 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Link: <https://www.gmcar.southafrica.gm.com/>; rel=shortlink
+Pragma: no-cache
+Proxy-Agent: Oracle-iPlanet-Web-Server/7.0
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: PHPSESSID=rbj2vejke9hakglu0ddftj8dvgaj97l17g8va7mmep3qkk2lsqa1; path=/;HttpOnly;Secure
+Strict-Transport-Security: max-age=157680000; includeSubDomains
+Transfer-Encoding: chunked
+Via: 1.1 https-www.bochum-hat-zukunft.de
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Pingback: https://www.gmcar.southafrica.gm.com/xmlrpc.php
+X-Powered-By: PHP/5.3.17
+X-Xss-Protection: 1; mode=block

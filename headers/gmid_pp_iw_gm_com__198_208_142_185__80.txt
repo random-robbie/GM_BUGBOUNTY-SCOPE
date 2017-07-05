@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Language: en
+Content-Length: 10283
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:26:16 GMT
+Keep-Alive: timeout=5, max=98
+Last-Modified: Sun, 21 May 2017 10:47:10 GMT
+X-Frame-Options: DENY

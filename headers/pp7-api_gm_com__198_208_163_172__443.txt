@@ -1,0 +1,6 @@
+Connection: close
+Content-Length: 663
+Content-Type: text/xml;charset=utf-8
+Date: Wed, 05 Jul 2017 14:23:20 GMT
+Gccx-Transactionid: 0000015bafe04854-28386f
+Server: Apache-Coyote/1.1

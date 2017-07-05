@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:40:32 GMT
+Last-Modified: Mon, 03 Jul 2017 20:23:50 GMT
+Server: Apache
+Set-Cookie: X-DC=(null)
+Transfer-Encoding: chunked
+Vary: Host
+X-Frame-Options: SAMEORIGIN

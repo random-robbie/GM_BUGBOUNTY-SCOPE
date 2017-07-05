@@ -1,0 +1,6 @@
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 05 Jul 2017 14:39:06 GMT
+Set-Cookie: BIGipServer~PROD-T2~accounts.gm.com_443=rd1o00000000000000000000ffff0a5003e6o82; path=/ TS017e54e2=014ac7c91f520e51eaa30b4d4eeb856f6d5264682772ea6673a8e6717bfd336da1ca4321b893e675341bdf60a4d89f6c292642d82d; Path=/
+Www-Authenticate: Basic realm="SCRealm"

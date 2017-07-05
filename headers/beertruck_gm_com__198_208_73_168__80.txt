@@ -1,0 +1,8 @@
+Connection: Keep-Alive
+Content-Length: 299
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:42:01 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache
+Set-Cookie: JSESSIONID=07F2C0BF05283C818E0897201884320D; Path=/uxteam-login/; Secure; HttpOnly;HttpOnly;Secure
+X-Frame-Options: SAMEORIGIN

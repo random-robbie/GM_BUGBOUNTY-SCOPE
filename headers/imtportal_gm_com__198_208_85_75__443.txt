@@ -1,0 +1,12 @@
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:28:25 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Keep-Alive: timeout=15, max=100
+Pragma: no-cache
+Server: Apache/2.2.12 (Linux/SUSE)
+Set-Cookie: PHPSESSID=ohsobuqpmg4mf2nvde332cmi9ool552hok5b48fmvili53f3nd00; path=/ BIGipServerimtport-8443=3663122630.64288.0000; path=/
+Transfer-Encoding: chunked
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.3.17

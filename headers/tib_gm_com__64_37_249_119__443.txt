@@ -1,0 +1,6 @@
+Content-Length: 0
+Content-Type: text/plain
+Date: Wed, 05 Jul 2017 14:43:26 GMT
+Set-Cookie: BIGipServer~PROD-T2~tib.gm.com_443=rd1o00000000000000000000ffff0a50032do82; path=/ TS017e54e2=014ac7c91ffa625cc73906885ce3d16c5258006b5b0fba93609aee2696e1f92612f95cdc2a959b9a80fc57e759059e8a4b5dcce9cb; Path=/
+Www-Authenticate: Basic realm="SCRealm"
+X-Cnection: close

@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Language: en
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 05 Jul 2017 14:50:25 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache
+Transfer-Encoding: chunked
+Vary: accept-language,accept-charset

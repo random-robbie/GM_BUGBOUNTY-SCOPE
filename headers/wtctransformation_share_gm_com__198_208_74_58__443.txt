@@ -1,0 +1,5 @@
+Connection: close
+Content-Length: 315
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 05 Jul 2017 15:03:05 GMT
+Server: Microsoft-HTTPAPI/2.0

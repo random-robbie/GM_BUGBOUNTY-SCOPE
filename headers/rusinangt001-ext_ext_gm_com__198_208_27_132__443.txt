@@ -1,0 +1,14 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Length: 3309
+Content-Security-Policy: default-src 'self'  'unsafe-inline' 'unsafe-eval'
+Content-Type: text/html; charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:08:23 GMT
+Etag: "4315-ced-5d447b80"
+Keep-Alive: timeout=4, max=100
+Last-Modified: Wed, 22 Apr 2015 23:17:18 GMT
+Server: Apache
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,8 @@
+Connection: Keep-Alive
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 05 Jul 2017 14:24:51 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache
+Set-Cookie: BIGipServerwpA5m-443=2822295750.47873.0000; path=/
+Vary: Accept-Encoding

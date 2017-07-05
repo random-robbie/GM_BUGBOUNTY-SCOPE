@@ -1,0 +1,8 @@
+Cache-Control: no-store,no-cache,must-revalidate,max-age=0,post-check=0,pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:39:48 GMT
+Expires: Wed, 05 Jul 2017 14:39:48 GMT
+Last-Modified: Wed, 05 Jul 2017 14:39:48 GMT
+Server: glass/1.0 Python/2.6.4
+Set-Cookie: sid=ebwLDtYpNPUWc2H0PQHN; httponly; Path=/; secure
+X-Frame-Options: SAMEORIGIN

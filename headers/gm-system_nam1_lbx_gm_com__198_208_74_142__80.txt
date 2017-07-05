@@ -1,0 +1,7 @@
+Cache-Control: private
+Content-Length: 8323
+Content-Type: text/html; charset=windows-1251
+Date: Wed, 05 Jul 2017 14:44:24 GMT
+Expires: Wed, 05 Jul 2017 14:44:25 GMT
+Server: Microsoft-IIS/8.5
+X-Frame-Options: SAMEORIGIN

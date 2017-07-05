@@ -1,0 +1,8 @@
+Accept-Ranges: bytes
+Connection: close
+Content-Length: 612
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:50:30 GMT
+Etag: "7e007-264-546785cd472c0"
+Last-Modified: Thu, 19 Jan 2017 20:27:31 GMT
+Server: Apache

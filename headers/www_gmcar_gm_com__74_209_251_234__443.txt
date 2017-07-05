@@ -1,0 +1,9 @@
+Cache-Control: no-cache
+Content-Length: 16614
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 14:48:16 GMT
+Expires: -1
+Pragma: no-cache
+Set-Cookie: ASP.NET_SessionId=odgnw3mtjoc3akzf0v4211gi; path=/; HttpOnly; Secure; HttpOnly cookie_20=!Hejl79IVuLrvxMEiXek8mVcXbq4YF3dKjD8QtqGNbPsI9r1h5I0pdLwtTJmDPyByULosFl6wnofsJZc=; expires=Wed, 05-Jul-2017 15:08:16 GMT; path=/; Secure; HttpOnly
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

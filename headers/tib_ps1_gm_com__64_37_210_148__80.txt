@@ -1,0 +1,7 @@
+Connection: close
+Content-Length: 0
+Content-Type: text/plain
+Date: Wed, 05 Jul 2017 15:07:06 GMT
+Set-Cookie: BIGipServer~STG-T2~tib.ps1.gm.com=rd1o00000000000000000000ffff0a50115eo83;secure; path=/ TS01dd0c29=01ec9bc5eb7c08d4025fcc0a21ea05c1b7d5c3421f1c7f956bfd2abb5c464ef196aa2695665938bba0512e9768c9b25edbf513e01e; Path=/
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Www-Authenticate: Basic realm="SCRealm"

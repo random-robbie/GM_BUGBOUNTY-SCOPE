@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- GTM -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PW5KF9');</script>
+    <!-- END GTM -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  <!-- This fixes display on IE compatibility view -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="shortcut icon" type="image/png" href="/Content/Images/GM_Favicon.png">
+    <title>Home - GM Card</title>
+    <link href='//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'> <!-- Google Lato Font -->
+    <link href="/Content/jquery-ui.css" rel="stylesheet"/>
+<link href="/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/screen.min.css" rel="stylesheet"/>
+<link href="/Content/slick.css" rel="stylesheet"/>
+     <!-- Need to be able to override some global nav styles, will refactor to have only global nav styles here and not the whole thing :( -->
+    
+
+    
+    
+    
+    
+
+
+</head>
+<body>
+
+    <!-- GTM (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PW5KF9" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    
+    <!-- header -->
+    <header>
+    <div class="container-full">
+        
+        <!-- GM -->
+        <div class="gm-logo">
+            <a id="aTopLogo" href="/EN/Home/" title="Home">
+                <img src="/Content/Images/EN/GMCard-Logo.svg" alt="Home">
+            </a>
+        </div>
+
+        <!-- BRANDS -->
+        <div class="logo-images">
+            <div><img id="imgChevroletLoginBanner" data-brand="chev" src="/Content/Images/Chevy-Logo.png" alt="Chevrolet"></div>
+            <div><img id="imgBuickLoginBanner" data-brand="buick" src="/Content/Images/Buick-Logo.png" alt="Buick"></div>
+            <div><img id="imgGMCLoginBanner" data-brand="GMC" src="/Content/Images/GMC-Logo.png" alt="GMC"></div>
+            <div><img id="imgCadillacLoginBanner" data-brand="cadi" src="/Content/Images/Cadillac-Logo.png" alt="Cadillac"></div>
+        </div>
+
+        <!-- LOGIN -->
+        <div id="divLoginMenuBar">
+            
+            
+<!-- This helper checks if the current selected culture matches the radio button then append "checked" to the radio -->
+   
+
+
+<!-- LOGIN SECTION: is authenticated -->
+    <ul class="ulNavBarLogin">
+
+        <!-- LANGUAGE TOGGLE -->
+        <!--<li>
+            <div class="link">
+<form action="/EN/Home/ToggleCulture?OriginalController=Home&amp;OriginalAction=Index" method="post">                    <a id="aToggleLanguageTablet" href="#" title="Change Language">Fran&#231;ais</a>
+</form>            </div>
+        </li>-->
+        
+        <!-- PREVIOUS CARDHOLDER -->
+        <!--<li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"><div class="seperator">|</div></li>
+        <li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block" >
+            <div class="link">
+                <a href="http://www.gm.ca/gm/english/services/gm-card/overview?override=desktop" title="GM Card Points Page" target="_blank">Previous Cardholder?</a>
+            </div>
+        <li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"><div class="seperator">|</div></li>
+        </li>-->
+
+        <!-- GET THE CARD -->
+        <li>
+            <div class="link">
+                
+                <a href="/EN/Home/ChooseCard" title="Apply for the Card">Get The Card</a>
+            </div>
+        </li>
+
+        <!-- seperator --><li><div class="seperator">|</div></li>
+
+        <!-- LOGIN -->
+        <li>
+            <div class="link">
+                
+                <a href="/EN/Account/Login" title="Log In">Log In</a>
+            </div>
+        </li>
+
+        <!-- MEGA MENU button -->
+        <li>
+            <i class="nav-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </i>
+        </li>
+    </ul>
+
+        </div>
+
+    </div>
+
+    <!-- NAVIGATION -->
+    <!-- NAV ITEM -->
+<div class="nav-items inactive">
+    <ul class="container-fluid">
+        <!-- HOME -->
+        <li><a href="/EN/Home/" title="Home Page">Home</a></li>
+
+        <!-- HOW IT WORKS  -->
+        <li><a href="/EN/Home/Redeem" title="How it works">How It Works</a></li>
+
+        <!-- CHOOSE YOUR CARD -->
+        <li><a href="/EN/Home/ChooseCard" title="Apply for the Card">Choose Your Card</a></li>
+
+        <!-- GET THE CARD -->
+        
+
+        <!-- LOG IN -->
+        <li class="hidden-dk-up"><a href="/EN/Account/Login" title="Log In">Log In</a></li>
+
+        <!-- PREVIOUS CARDHOLDER -->
+        <li><a href="http://www.gm.ca/gm/english/services/gm-card/overview?override=desktop" title="GM Card Points Page" target="_blank">Previous Cardholder?</a></li>
+
+        <!-- TERMS & CONDITIONS -->
+        <li><a href="/EN/About/TermsOfService" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+
+        <!-- FAQ -->
+        <li><a href="/EN/About/FAQ" title="Frequently Asked Questions">FAQs</a></li>
+
+        <!-- SIGN UP  -->
+        <li><a href="/EN/Account/SignUp" title="Register">Register</a></li>
+
+        <!-- EARNINGS -->
+
+        <!-- LANGUAGE TOGGLE -->
+        <li><form action="/EN/Home/ToggleCulture?OriginalController=Home&amp;OriginalAction=Index" method="post"> <a id="aToggleLanguageTablet" href="#" title="Change Language">Fran&#231;ais</a> </form></li>
+
+        <!-- BG FILL -->
+        <li></li>
+    </ul>
+</div>
+
+</header>  
+
+    <!-- content -->
+    <div class="body-content">
+        
+
+
+
+
+ 
+
+<!-- SIDE NAV -->
+<nav id="cd-vertical-nav" style="display: none;">
+    <ul>
+        <li>
+            <a href="#home-hero" data-number="1">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">Home</span>
+            </a>
+        </li>
+        <li>
+            <a href="#cards" data-number="2">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">Choose Your Card</span>
+            </a>
+        </li>
+        <li>
+            <a href="#savings" data-number="3">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">Apply Now</span>
+            </a>
+        </li>
+        <li>
+            <a href="#how" data-number="4">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">How It Works</span>
+            </a>
+        </li>
+        <li>
+            <a href="#offers" data-number="5">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">Current Offers</span>
+
+            </a>
+        </li>
+        <li>
+            <a href="#member" data-number="6">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">Previous GM Cardholder?</span>
+            </a>
+        </li>
+        <li>
+            <a href="#apply-now" data-number="7">
+                <span class="cd-dot"><div></div></span>
+                <span class="cd-label">Apply Now</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+<a class="cd-nav-trigger cd-img-replace">Open navigation<span></span></a>
+  
+<!-- SECTION: homepage carousel -->
+<div id="home-hero" class="bucket">
+    <!-- scroll down indicator that fades shortly after load -->
+<i class="sprite scroll-indicator animate"></i> 
+
+<!-- funky video play button & background-->
+<div id="video-controls">
+    <i class="sprite play-icon"></i>
+    <img src="/Content/Images/home_video_automazing.png" class="automazing-en-img" />
+    <img src="/Content/Images/home_video_automazing-fr.png" class="automazing-fr-img" />
+    
+</div>
+<div class="video-background"></div>
+
+<!-- VIDEO -->
+<video poster="/Content/Images/video-still.jpg">
+    <source src="/Content/Images/video.mp4">
+</video>
+</div>
+
+<!-- SECTION: cards -->
+<div id="cards" class="bucket">
+    <div class="container-fluid content">
+
+    <i class="sprite arrow-left"></i>
+    
+    <div class="card-block card-one">
+        <p class="card-heading">Scotiabank<sup>®</sup> GM<sup>®</sup> VISA<sup>*</sup> Card</p>
+        <div class="visa-copy"></div>
+        <div class="visa-card">
+            <i class="no-fee-card-image sprite"></i>
+            <a class="cta tracked" data-link-name="gotoNoFee" title="Choose Your Card" href="/EN/Home/ChooseCard"><span>Check out card details</span></a>
+            
+        </div>
+    </div>
+
+    <div class="card-block card-two">
+        <p class="card-heading">Scotiabank<sup>®</sup> GM<sup>®</sup> VISA Infinite<sup>*</sup> Card</p>
+        <div class="infinite-copy"></div>
+        <div class="infinite-card">
+            <i class="infinite-card-image sprite"></i>
+            
+
+            <a class="cta tracked" data-link-name="gotoInfinite" title="Choose Your Card" href="/EN/Home/ChooseCard"><span>Check out card details</span></a>
+            
+        </div>
+    </div>
+
+    <i class="sprite arrow-right"></i>
+    <div class="no-fee-card-bg"></div>
+
+</div>
+</div>
+
+<!-- SECTION: savings -->
+<div id="savings" class="bucket carousel">
+    <div class="slide movie">
+    <div class="content">
+        <div class="top">
+            <h1>When paying for streaming services helps float your down payment.</h1>
+        </div>
+        <div class="bottom">
+            <img class="car" src="/Content/Images/home_savings_movie_car.png" />
+            <img class="card en-only" src="/Content/Images/cards/CARD_infinite_cadallac.png" />
+            <img class="card fr-only" src="/Content/Images/cards/CARD_infinite_cadallac-fr.png" />
+            <i class="sprite rewards-driven"></i>
+            <a class="cta tracked" href="/EN/Home/ChooseCard" data-link-name="movie" title="Return back"><span>Apply Now</span></a>
+        </div>
+    </div>
+</div>
+<div class="slide hotel">
+    <div class="content">
+        <div class="top">
+            <h1>From booking a hotel room to booking your test drive.</h1>
+        </div>
+        <div class="bottom">
+            <img class="car" src="/Content/Images/home_savings_hotel_car.png" />
+            <img class="card en-only" src="/Content/Images/cards/CARD_infinite_gmc.png" />
+            <img class="card fr-only" src="/Content/Images/cards/CARD_infinite_gmc-fr.png" />
+            <i class="sprite rewards-driven"></i>
+            <a class="cta tracked" href="/EN/Home/ChooseCard" data-link-name="hotel" title="Return back"><span>Apply Now</span></a>
+        </div>
+    </div>
+</div>
+<div class="slide coffee">
+    <div class="content">
+        <div class="top">
+            <h1>When paying for coffee grinds away at the cost of your next car.</h1>
+        </div>
+        <div class="bottom">
+            <img class="car" src="/Content/Images/home_savings_coffee_car.png" />
+            <img class="card en-only" src="/Content/Images/cards/CARD_nofee_buick.png" />
+            <img class="card fr-only" src="/Content/Images/cards/CARD_nofee_buick-fr.png" />
+            <i class="sprite rewards-driven"></i>
+            <a class="cta tracked" href="/EN/Home/ChooseCard" data-link-name="coffee" title="Return back"><span>Apply Now</span></a>
+        </div>
+    </div>
+</div>
+<div class="slide grocery">
+    <div class="content">
+        <div class="top">
+            <h1>When buying your groceries feeds your car savings.</h1>
+        </div>
+        <div class="bottom">
+            <img class="car" src="/Content/Images/home_savings_grocery_car.png" />
+            <img class="card en-only" src="/Content/Images/cards/CARD_nofee_chevrolet.png" />
+            <img class="card fr-only" src="/Content/Images/cards/CARD_nofee_chevrolet-fr.png" />
+            <i class="sprite rewards-driven"></i>
+            <a class="cta tracked" href="/EN/Home/ChooseCard" data-link-name="grocery" title="Return back"><span>Apply Now</span></a>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- SECTION: how it works -->
+<div id="how" class="bucket">
+    <div class="how-inner-bg-overlay"></div>
+<div class="how-inner">
+    <div class="container-fluid">
+        <div class="content">
+            <div class="parallax-window">
+                <div class="parallax-slider how-parallax-content">
+                    <span class="heading heading-secondary">How it works</span>
+                    <a class="cta" title="" href="/EN/Home/Redeem"><span>Get the details</span></a>
+                </div>
+            </div>
+            <span class="copy visible-lg-block visible-md-block visible-sm-block">It’s simple – your everyday spending can help add up to sweet savings on a new vehicle. Find out more on how you can go from switching credit cards, to switching gears in an all-new Chevrolet, Buick, GMC, or Cadillac.</span>
+        </div>
+    </div>
+</div>
+<div class="how-copy-block content visible-xs-block">
+    <a class="cta visible-xs-inline-block" title="" href="/EN/Home/Redeem"><span>Get the details</span></a>
+    <span class="copy">It’s simple – your everyday spending can help add up to sweet savings on a new vehicle. Find out more on how you can go from switching credit cards, to switching gears in an all-new Chevrolet, Buick, GMC, or Cadillac.</span>
+</div>
+</div>
+
+<!-- SECTION: current offers -->
+<div id="offers" class="bucket">
+    
+
+<div class="background"></div>
+<div class="container-fluid">
+    <div class="content">
+        <div class="top">
+            <h1>Current Offers</h1>
+            <p class="copy">Combine your GM Earnings with the latest local dealer incentives and offers so you may get the best possible price on your next vehicle!</p>
+        </div>
+        <div class="bottom">
+            <i class="sprite no-fee-card-image"></i>
+
+                <a class="cta" href="javascript:openCurrentOffers(document.location.href)" title="Learn more about current offers"><span>See offers</span></a>
+            
+            <img class="cars" src="/Content/Images/home_offers_cars.png" srcset="/Content/Images/home_offers_cars-x2.png"/>
+            <img class="blue-car" src="/Content/Images/home_offers_bluecar.png" />
+        </div>
+    </div>
+    
+</div>
+</div>
+
+<!-- SECTION: already a member -->
+<div id="member" class="bucket">
+    _H<div class="container-fluid">
+    <div class="content">
+        <h1>Previous GM Cardholder?</h1>
+        <p class="copy">No worries – it’s easy to find your Previous GM Card Earnings, and check the vehicle redemption allowances. We’ll even show you how they can be combined with your new Scotiabank GM Visa Card Earnings to maximize your redemption.</p>
+        <a class="cta" href="http://www.gm.ca/gm/english/services/gm-card/overview?override=desktop" target="_blank"><span>Learn More</span></a>
+    </div>
+</div>
+</div>
+
+<!-- SECTION: apply now -->
+<div id="apply-now" class="bucket">
+    
+
+<!-- Modal -->
+<div class="modal fade" id="divModal" tabindex="-1" role="dialog" aria-labelledby="divModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="divModalLabel"><strong>You are leaving GMCard.ca</strong></h4>
+            </div>
+            <div class="modal-body">
+                <span>You are leaving GMCard.ca to visit a website that is operated independently and not maintained by General Motors of Canada and where the General Motors of Canada privacy policy does not apply.
+                </span>
+                <br /><br />
+                <span>This link is provided to you for convenience and does not serve as an endorsement by General Motors of Canada of information or content that you may find on this site.</span>
+            </div>
+            <div class="modal-footer">
+                
+                <a id="aLinkToBankPage" class="cta continue tracked" href="#" title="Return back" target="_blank" ><span>CONTINUE</span></a>
+                
+                <a class="cta cancel" data-dismiss="modal" href="#" title="Go to bank page"><span>CANCEL</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content">
+    <img class="car" src="/Content/Images/home_applynow_car.png" />
+    <i class="sprite no-fee-card-image"></i>
+    <span>Scotiabank<sup>®</sup> GM<sup>®</sup> VISA<sup>*</sup> Card</span>
+    <a href="" class="cta" data-toggle="modal" data-target="#divModal" data-url="https://apps.scotiabank.com/cgi-bin/voca/creditCards.cgi?SOURCE=805&amp;C=E&amp;TID=GMNofee" data-link-name="NoFee" title="Apply Now"><span>Apply Now</span></a>
+    
+</div>
+</div>
+
+<!-- BUTTON: SCROLL TO TOP -->
+<div class="bucket scroll-to-top">
+    <a href="#top">Back To Top<i class="sprite arrow-up"></i></a>
+</div>
+
+<!-- Start of DoubleClick Floodlight Tag: Please do not remove -->
+<iframe src="https://5598211.fls.doubleclick.net/activityi;src=5598211;type=gm_card;cat=carat009;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+        <footer>
+    
+    <div class="top">
+        <div class="content container-fluid">
+            <div class="logo-images">
+                <div>
+                    <a id="aTopLogo" href="/EN/Home/" title="Home">
+                        <img src="/Content/Images/EN/GMCard-Logo.svg" alt="Home">
+                    </a>
+                </div>
+                <div><img id="imgChevroletLoginBanner" data-brand="chev" src="/Content/Images/Chevy-Logo.png" alt="Chevrolet"></div>
+                <div><img id="imgBuickLoginBanner" data-brand="buick" src="/Content/Images/Buick-Logo.png" alt="Buick"></div>
+                <div><img id="imgGMCLoginBanner" data-brand="GMC" src="/Content/Images/GMC-Logo.png" alt="GMC"></div>
+                <div><img id="imgCadillacLoginBanner" data-brand="cadi" src="/Content/Images/Cadillac-Logo.png" alt="Cadillac"></div>
+            </div>  
+            <div class="page-links">
+                <ul>
+                    <li><a href="http://www.gm.ca/gm/english/services/gm-card/overview?override=desktop" title="GM Card Points Page" target="_blank">Previous Cardholder?</a></li>
+                    <li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"><div class="seperator">|</div></li>
+                    <li><a href="/EN/About/TermsOfService" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                    <li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"><div class="seperator">|</div></li>
+                    <li><a href="/EN/About/FAQ" title="Frequently Asked Questions">FAQs</a></li>
+                    <li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"><div class="seperator">|</div></li>
+                    <li><a href="/EN/About/ContactUs" title="Contact Us">Contact Us</a></li>
+                    <li class="visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"><div class="seperator">|</div></li>
+                    <li><a href="http://www.gmdealersearch.ca/corporate-dealer-locator.html" title="Locate A Dealer" target="_blank">Locate A Dealer</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="bottom container-fluid">
+        <p>&#174; Registered trademarks of The Bank of Nova Scotia.</p>
+        <p>&#174;* Registered trademark of General Motors Corporation The Bank of Nova Scotia is an authorized user of General Motors LLC marks for the GM Card program.</p>
+        <p>* Trademark of Visa International Service Association and used under license.</p>
+        <p>The accumulation of Earnings does not entitle a Cardholder to any vested rights and, in accumulating GM Earnings, you may not rely upon the continued availability of any award, reward, award/reward level, premium, privilege or other benefit.  GM Canada specifically reserves the right to amend, alter, withdraw or terminate the Earnings Program (in whole or in part), any program, benefit, award, reward, award/reward level, premium or privilege or these terms and conditions.  Any such changes may affect Earnings you already accumulated as well as any future accumulation of Earnings.</p>
+        <p>†Based on data current as of July 2016. Visit Moneysense.ca/cbcc16 for methodology.</p>
+    </div>
+
+</footer>
+        
+    </div>
+
+    <!-- scripts -->
+    <script src='/bundles/modernizr?v=doNdnIzIIaHtCjcZym3Hyqapmc0LbNitQ_UL1rkciYg1'> </script>
+    <script src='/bundles/jquery?v=iQAF5b0aip0xTTvMeq9gpW5zA9R7_cTU8YLL4nmNGzg1'> </script>
+    <script src='/bundles/SiteScripts?v=YJA433F1fL0ZkX81b3QgCtir1E-i33yIGLxmP4EOY-Y1'> </script>
+
+        <script src='/bundles/GlobalNav?v=GvBJJlPQJH9JEz6r3SP-KlTj1i7y57FAFzkaGRKVM1I1'> </script>
+
+    <script src='/bundles/bootstrap?v=ArULtruBESpw7qOLAZv9uyzzeqrMrTxBoJa0NajxZS41'> </script>
+    <script src='/bundles/jqueryui?v=KbvWbfcKXikTncKoW66mHIjnswo-vqlrG_vFSjefNNc1'> </script>
+    
+    <!-- Fix for global Nav to work with latest jQuery version -->
+    <script src='//www.gm.ca/js/panam/jquery-migrate-1.2.1.min.js' > </script>
+    <script src='//www.gm.ca/js/common/jquery.colorbox-min.js' > </script>
+
+    <!-- Adobe Analytics Scripts -->
+    <script language="JavaScript" type="text/javascript" src="/Scripts/AdobeAnalytics/VisitorAPI.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/Scripts/AdobeAnalytics/AppMeasurement.js"></script>
+
+    <!-- Adobe Analytics Code -->
+    <script language="JavaScript" type="text/javascript">
+        /* You may give each page an identifying name, server, and channel on the next lines. */
+        s.pageName=document.title
+        s.server=window.location.hostname
+        s.channel=""
+        s.pageType=""
+        s.prop1=""
+        s.prop2=""
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    <!-- END OF: Adobe Analytics Code -->
+    
+    
+    <script src="/Scripts/Home/Home.js"></script>
+
+    <script src="/Scripts/Libraries/slick.min.js"></script>
+
+    <script src="/Scripts/Libraries/parallax.js"></script>
+   
+
+</body>
+</html>

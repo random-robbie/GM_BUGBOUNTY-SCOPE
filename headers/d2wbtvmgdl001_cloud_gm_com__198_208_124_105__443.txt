@@ -1,0 +1,7 @@
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 72
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:42:08 GMT
+Last-Modified: Thu, 13 Sep 2012 19:56:49 GMT
+Server: nginx/1.2.2

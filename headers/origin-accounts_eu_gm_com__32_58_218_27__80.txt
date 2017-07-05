@@ -1,0 +1,7 @@
+Connection: close
+Content-Length: 955
+Content-Type: text/html;charset=utf-8
+Date: Wed, 05 Jul 2017 14:27:36 GMT
+Server: Apache-Coyote/1.1
+Set-Cookie: persist=fra-onstareu-prod-portal1; path=/; HttpOnly; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains;

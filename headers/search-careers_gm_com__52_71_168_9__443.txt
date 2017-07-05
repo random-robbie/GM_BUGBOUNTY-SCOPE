@@ -1,0 +1,10 @@
+Cache-Control: no-store, private no-cache="set-cookie"
+Connection: keep-alive
+Content-Language: genea0085-EN_CA
+Content-Type: text/html;charset=utf-8
+Date: Wed, 05 Jul 2017 14:25:09 GMT
+Last-Modified: Wed, 05 Jul 2017 14:25:09 GMT
+Server: Apache-Coyote/1.1
+Set-Cookie: VISITED_LANG=en; Expires=Thu, 05-Jul-2018 14:25:09 GMT; Path=/; Secure VISITED_COUNTRY=ca; Expires=Thu, 05-Jul-2018 14:25:09 GMT; Path=/; Secure JSESSIONID=E389058CC6595BBB8F75E980C7E8BEF8; Path=/; Secure AWSELB=C79D0FAB063092016BC6918DCAF18B27ACBD284C135C00A1A5920D167E5412F1FEA5FE613405472F518805ABDA8DB64D893F836504B054A55F7AA35103F7220B7FFA06A5F8;PATH=/;MAX-AGE=1800
+Transfer-Encoding: chunked
+Vary: Accept-Encoding

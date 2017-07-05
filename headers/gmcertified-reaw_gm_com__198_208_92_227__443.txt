@@ -1,0 +1,8 @@
+Cache-Control: private
+Content-Length: 65923
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 14:38:04 GMT
+Server: Microsoft-IIS/8.5
+Set-Cookie: referralCookie=; path=/ __RequestVerificationToken=b28u74gckWqBskYIWA9B8H1PW1F3cxk6QguDP_cvbG76OtrPtNxMURNS8gWClKsnPFwMOgNEmanwhHfhzkKgc-C9GVOmCiAsEYiMFcMF5381; path=/; HttpOnly
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN

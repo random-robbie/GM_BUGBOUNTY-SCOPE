@@ -1,0 +1,11 @@
+Cache-Control: must-revalidate, max-age=0, s-maxage=600
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 05 Jul 2017 14:59:14 GMT
+Expires: Wed, 05 Jul 2017 14:59:14 GMT
+Last-Modified: Wed, 05 Jul 2017 14:59:14 GMT
+P3p: CP="CUR OTR STA"
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Salesforce.com ApexPages
+X-Xss-Protection: 1; mode=block

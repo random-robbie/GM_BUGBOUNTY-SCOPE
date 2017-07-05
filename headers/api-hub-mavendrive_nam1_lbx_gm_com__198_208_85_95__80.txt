@@ -1,0 +1,12 @@
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: Keep-Alive
+Content-Length: 1930
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:45:41 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Keep-Alive: timeout=302, max=1000
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=grvtvajn1uuof9h89auj25sg56; path=/; secure;HttpOnly;Secure
+X-Frame-Options: SAMEORIGIN
+X-Serverid: W3

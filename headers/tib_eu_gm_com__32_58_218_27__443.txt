@@ -1,0 +1,9 @@
+Connection: close
+Content-Length: 0
+Content-Type: text/plain
+Date: Wed, 05 Jul 2017 15:04:44 GMT
+Server: Apache-Coyote/1.1
+Set-Cookie: persist=fra1-7-37; path=/; HttpOnly; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+Via: 1.1 localhost:81
+Www-Authenticate: Basic realm="SCRealm"

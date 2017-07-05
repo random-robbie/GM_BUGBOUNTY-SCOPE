@@ -1,0 +1,8 @@
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:34:26 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=ktYTLHIu4IZ-QiYpFCSCmHIhMCCRJ9AQ08ytI1tHDPg9FNCuiuM4!246042936; path=/; secure; HttpOnly
+Transfer-Encoding: chunked
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Servlet/3.0 JSP/2.2

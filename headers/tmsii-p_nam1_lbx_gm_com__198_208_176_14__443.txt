@@ -1,0 +1,16 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Language: en
+Content-Length: 8000
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:30:24 GMT
+Keep-Alive: timeout=5, max=100
+Last-Modified: Wed, 17 May 2017 11:27:20 GMT
+Server: Oracle-Application-Server-11g
+Set-Cookie: Apache=198.208.176.14.1499265024472302; path=/;HttpOnly;Secure BIGipServertmsii-prdm-8443-pool=458281158.64288.0000; expires=Wed, 05-Jul-2017 15:03:14 GMT; path=/
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: master-only
+X-Webkit-Csp: default-src 'self'
+X-Xss-Protection: 1; mode=block

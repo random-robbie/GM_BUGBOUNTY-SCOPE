@@ -1,0 +1,6 @@
+Connection: close
+Content-Length: 672
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:25:39 GMT
+Server: Apache/2.4.6 () OpenSSL/1.0.1e-fips
+Set-Cookie: JSESSIONID=7E8TJGriaIGgVmqFAi8PItLK39T8BMq4Dkr9yLxlTymVOUKQayz-!-1047472142; path=/; secure

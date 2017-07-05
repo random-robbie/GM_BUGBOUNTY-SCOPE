@@ -1,0 +1,15 @@
+Am_client_type: genericHTML
+Cache-Control: private
+Connection: keep-alive
+Content-Length: 23760
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 05 Jul 2017 14:39:58 GMT
+Expires: 0
+Pragma: no-cache
+Proxy-Agent: Oracle-iPlanet-Web-Proxy-Server/4.0
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: JSESSIONID=DED42B77D5C2209AEBE59AC758F44C26; Path=/usmentosso; Secure; HttpOnly usmgmAMAuth=AQIC5wM2LY4SfczP13Tlerog5/aNFkfVSZvV7JKGEIqcBjM=@AAJTSQACMDQAAlMxAAIwMw==#;path=/;domain=.gm.com;secure;httponly usmgmAMlb=03;path=/;domain=.gm.com;secure;httponly usmgmAMAuth=LOGOUT; Domain=.gm.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure BIGipServerdamuo-8443=2754567572.64288.0000; path=/ PD-H-SESSION-ID=0nE7sUTmrpnY8or0qMacPp4gj6wenNZd0Em8Bftf7Sa4gt2P; path=/; domain=intouch.rit.gm.com; secure USMSSOORIGIN=wp2-wpfarm2.rit.gm.com; path=/; secure
+Vary: Accept-Encoding
+X-Dsameversion: Oracle OpenSSO 8.0 Update 2 Patch5 Build 6.1(2012-December-3 04:25)
+X-Frame-Options: SAMEORIGIN
+X-Wp-Session: wp2-wpfarm2.rit.gm.com

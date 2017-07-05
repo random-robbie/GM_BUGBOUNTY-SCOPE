@@ -1,0 +1,8 @@
+Connection: Keep-Alive
+Content-Length: 308
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:24:34 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache
+Set-Cookie: JSESSIONID=22EB4C96C1BE51DF83A75A4345A3DD22; Path=/ignition-login/; Secure; HttpOnly;HttpOnly;Secure
+X-Frame-Options: SAMEORIGIN

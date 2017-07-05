@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 53638
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 15:01:04 GMT
+Etag: "7586d9-d186-55393421c4480"
+Last-Modified: Wed, 05 Jul 2017 15:00:18 GMT
+Server: Apache
+Set-Cookie: BIGipServermol-prdm-80-pool=188338374.36895.0000; path=/
+X-Frame-Options: SAMEORIGIN

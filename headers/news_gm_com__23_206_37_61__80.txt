@@ -1,0 +1,9 @@
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Length: 53638
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:48:00 GMT
+Etag: "2a0eab6-d186-5539314b11200"
+Last-Modified: Wed, 05 Jul 2017 14:47:36 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN

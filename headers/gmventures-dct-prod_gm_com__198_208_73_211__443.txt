@@ -1,0 +1,5 @@
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 14:57:58 GMT
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: JSESSIONID=8DAC16848E537069D940C0C2E7F2229A; Path=/; Secure; HttpOnly
+Transfer-Encoding: chunked

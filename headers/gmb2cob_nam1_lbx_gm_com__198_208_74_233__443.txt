@@ -1,0 +1,5 @@
+Connection: close
+Content-Length: 465
+Content-Type: text/xml;charset=utf-8
+Date: Wed, 05 Jul 2017 14:35:07 GMT
+Server: Apache-Coyote/1.1

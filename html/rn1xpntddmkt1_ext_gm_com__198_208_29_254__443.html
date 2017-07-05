@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:wicket="http://wicket.sourceforge.net/">
+<head>
+    <noscript>
+        <meta http-equiv="refresh" content="0;url=nojavascript"/>
+    </noscript>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+	<noscript>
+		<STYLE TYPE="text/css">
+/*<![CDATA[*/
+
+			body {display:none}
+		
+/*]]>*/
+</STYLE>
+	</noscript>
+	
+	<style>
+/*<![CDATA[*/
+
+		html { visibility:hidden; }
+	
+/*]]>*/
+</style>
+	<script>
+/*<![CDATA[*/
+
+		if( self == top){
+			document.documentElement.style.visibility='visible';
+		}else{
+			top.location = self.location;
+		}
+	
+/*]]>*/
+</script>   
+
+    <!-- Do not modify this meta tag. The Jetty Monitor parses it. -->
+    <meta content="Infoblox WebUI Login Page ID" />
+    
+    <script type="text/javascript" language="JavaScript">
+/*<![CDATA[*/
+
+    function resetFeedback(event) {
+		if (event.keyCode != 13 && document.getElementById("errorMessage").innerHTML!=""){
+				document.getElementById("errorMessage").innerHTML="";
+		}
+    }
+	
+/*]]>*/
+</script>
+	
+   	
+	    <title>Infoblox Grid Manager</title>
+    
+
+<script type="text/javascript" src="./eIbulDKKRehvUmoSP-3bTw/eIb7d/bulb8"></script>
+<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="";
+/*]]>*/
+</script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { document.getElementById('timezone').value = IB.getBrowserTimezone();;});
+/*]]>*/
+</script>
+<link rel="stylesheet" type="text/css" href="./8ASxN_cCbotB_ltFLrVgVxFmfyhLjaI1emqkIvR_LNh_NHEC_xFRAnlLmHxKr2p4MWRzH_yxEYh9g-r8XxrfBXX_f0gdFeBI0X8F8bAXnJI/8ASa9/1emf8/BI048/_LN30/Anlae/rVg12" />
+<link rel="stylesheet" type="text/css" href="./8ASxN_cCbotB_ltFLrVgVxFmfyhLjaI1emqkIvR_LNh_NHEC_xFRAnlLmHxKr2p4MWRzH_yxEYh9g-r8XxrfBVd5jbIEipYuC-_Su98ps1c/8ASa9/1emf8/YuCe6/otB8c/Yh979/_xF3c" />
+<link rel="stylesheet" type="text/css" href="./8ASxN_cCbotB_ltFLrVgVxFmfyhLjaI1emqkIvR_LNh_NHEC_xFRAnlLmHxKr2p4MWRzH_yxEYh9g-r8XxrfBTgi0EP0KeKL3wARV4iNr7qHn3Uk0Gh8NrAIq_xLsJHj/8ASa9/xrffb/Iq_36/otB8c/LmH46/EYh53" />
+<script type="text/javascript" id="anti-cross-frame-scripting" src="./8ASxN_cCbotB_ltFLrVgVzl5bWfrZiTPezqTkqwLJ4iXpMJ9UI-lV8jYkeTZTwNjTmnRCBS-K16BEv7Yq9hl-LzbjRUJp_vD6LhPH76gBGMTt94YdfWTrha7qoJOiuS8/8ASa9/9hl8c/Yke32/ASxc5/-K172/uS839"></script>
+<link rel="stylesheet" type="text/css" href="./8ASxN_cCbotB_ltFLrVgVxFmfyhLjaI1emqkIvR_LNgs4CBmkfGuf5WbCxtZfdkUPSePfOqsMD6qtALushYNb9CCQFkewnIVrwVsMJ0KmHKhWjB1ayYzZ0irIpEd926v/8ASa9/hYN3c/9266c/xtZ4d/nIV1a/tZf0f" />
+<script type="text/javascript" >
+/*<![CDATA[*/
+Ext.BLANK_IMAGE_URL='./8ASxN_cCbotB_ltFLrVgV-HcYzI_hgViGLkh_TdumtN-tVpcNNGjKfz9O7GgEo_Ogz79eImi9BuEKj0IhmWf_x7Vz9-63G8VXCefcD7QgVqPYcufw2OZKAF72Y9hoKcRRMkBVx7nkNOCEYQ9CdVhHw/8ASa9/-tV1e/mtN56/G8V74/w8A8f/Vpc38/nkN50/o_Obe';
+/*]]>*/
+</script>
+<script type="text/javascript" src="./8ASxN_cCbotB_ltFLrVgV-HcYzI_hgViGLkh_TdumtN-tVpcNNGjKfz9O7GgEo_Oiyu1NBa5ycF-GCsquF7muC1oefENqU0Q63nyUZ3enek/8ASa9/iGL8d/iGL8d/iGL8d/iGL8d"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+/**
+ * Localization file for base ext components.
+ */
+if (Ext.LoadMask) {
+	Ext.override(Ext.LoadMask, {
+		msg : "Loading..."
+	});
+} else if (Ext.MessageBox) {
+	Ext.override(Ext.MessageBox.buttonText = {
+			ok     : "OK",
+			cancel : "Cancel",
+			yes    : "Yes",
+			no     : "No"
+	});
+}
+
+Ext.onReady(function() {
+	if (IB && IB.MSG) {
+		IB.SystemErrorDialogText =  "Error";
+		IB.ServerUnavailableDialogText = "A connection with the server aborted or could not be established.";
+		IB.NoDetailsAvailableDialogText = "No details available.";
+		IB.SystemUnavailableDialogText = "System is unavailable.";
+		IB.ServerUnavailableSynopses = "The server may have stopped or may be restarting.";
+		IB.ContactTechSupport = "An error has occurred. Contact technical support if the problem persists. ";
+		
+		IB.MSG.msg.Details = "Details";
+		IB.MSG.msg.OK = "Close";
+	}
+});
+
+Ext.override(Ext.grid.GridView, {
+	sortAscText : "Sort Ascending",
+    sortDescText : "Sort Descending",
+    columnsText : "Columns"
+});
+
+/*]]>*/
+</script>
+</head>
+<body>
+	<!-- anti cross frame scripting code -->
+    <script wicket:id="anti-cross-frame-scripting" type="text/javascript"></script>
+    <div style="height: auto">
+	    <div id="id5" style="display:none"></div>
+		<div class="ib-banner" id="id6">
+	
+	<div class="ib-banner-style ib-banner-style-body ib-banner-style-yellow">
+		<div class="ib-banner-text">This Appliance is connected to the Internet</div>
+	</div>
+</div>
+	</div>
+	
+    <div class="ib-login-wrapper">
+	    <div class="ib-panel-wrapper">
+		    <div class="ib-login-header"></div>
+		    <div class="ib-login-body">
+		        <div class="ib-login-logo"></div>
+		        <div class="ib-login-disclaimer"><p>Disconnect NOW if you have not been expressly authorized to use this system.</p></div>
+		       <div id="id7">
+		       <form id="loginForm" method="post" action="./rlQ8AAqKnbi1LMhQcz2EyWctcsY2knG7YjXegTxzRbs-aV2F_J3TAX_Fk0wzPmZE" AUTOCOMPLETE="off"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="loginForm_hf_0" id="loginForm_hf_0" /></div>
+		            <div class="ib-login-bar">
+		            <table width="100%">
+		                <tr>
+		                    <td class="ib-login-bar-cell"><label for="username" title="Username">Username</label></td>
+		                    <td class="ib-login-bar-cell">
+		                      <input name="username" type="text" size="20" onkeyup="resetFeedback(event);" value="" id="username" maxlength="12000"/><script type="text/javascript" language="javascript">document.getElementById("username").focus()</script>
+		                    </td>
+		                    <td class="ib-login-bar-cell"><label for="password" title="Password">Password</label></td>
+		                    <td class="ib-login-bar-cell">
+		                      <input name="password" type="password" id="password" size="20" onkeyup="resetFeedback(event);" value="" maxlength="12000" AUTOCOMPLETE="off"/>
+		                    </td>
+		                    <td class="ib-login-button-cell">                    
+		                        <input class="ib-login-button" type="submit" name="loginButton" id="loginButton" title="Login" onclick="this.disabled=true;if (function(){return Wicket.$$(this)&amp;&amp;Wicket.$$(&#039;loginForm&#039;)}.bind(this)()) { Wicket.showIncrementally(&#039;loginButton--ajax-indicator&#039;);}var wcall=wicketSubmitFormById(&#039;loginForm&#039;, &#039;./-BABjFnwNZYwR91L2-w7yHTnHSeGkmt2ROBwSXz84kTdHYvtqwC9eoX3KfldEFoUy3EhDOTMR0EeFn7CvpNAiA&#039;, &#039;loginButton&#039; ,function() { this.disabled=false;;Wicket.hideIncrementally(&#039;loginButton--ajax-indicator&#039;);}.bind(this),function() { ;Wicket.hideIncrementally(&#039;loginButton--ajax-indicator&#039;);}.bind(this), function() {if (!function() {return Wicket.$$(this)&amp;&amp;Wicket.$$(&#039;loginForm&#039;)}.bind(this)()) {Wicket.hideIncrementally(&#039;loginButton--ajax-indicator&#039;);}return Wicket.$$(this)&amp;&amp;Wicket.$$(&#039;loginForm&#039;)}.bind(this));;; return false;" value="Login"></input><span style="display:none;" class="wicket-ajax-indicator" id="loginButton--ajax-indicator"><img src="./8ASxN_cCbotB_ltFLrVgV5MWnsOoW8hgdW8ltb7DUfaJso4_KQkMslyj7r_hVQlW2-mm7sehAABIzazupW5uMOQTDLLvMfYP3AA76SjJBF9n3YiW_kE8tlVJ2FK7y-A-/8ASa9/W5u16/B_l8e/7y-2a" alt=""/></span>
+		                    </td>
+		                </tr>
+		            </table>
+		             </div>      
+		             <input type="hidden" id="timezone" value="" name="timezone"/>        
+		             <input type="hidden" id="contextId" value="" name="contextId"/> 	
+		       </form>
+		       
+				</div>
+		
+		        <div class="ib-login-error-blck" >
+		        	<div class="ib-error-message" id="errorMessage">
+  
+</div>
+		        </div>
+		        
+		        
+		
+		    </div>
+		   
+		    <div class="ib-login-footer"></div>
+		</div>
+	
+		<div id="tunnel"></div>
+	</div>
+	<div id="id8" style="display:none"></div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+Connection: keep-alive
+Content-Language: en
+Content-Length: 5636
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:25:18 GMT
+Server: Oracle-iPlanet-Web-Server/7.0
+Set-Cookie: JSESSIONID=L9wTJBacqtxS70dDA9GGvq4OrL9NF0ycAgAMDvhSa1iAw8wFiq-X!-1857747802; path=/; HttpOnly org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE=en; path=/; secure
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Servlet/2.5 JSP/2.1

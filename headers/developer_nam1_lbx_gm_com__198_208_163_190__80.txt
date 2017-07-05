@@ -1,0 +1,10 @@
+Cache-Control: private
+Connection: close
+Content-Length: 10542
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 05 Jul 2017 14:45:20 GMT
+Pragma: private
+Server: Blueberries
+Set-Cookie: JSESSIONID=50A830ED0856092EFF72E22F087CB03A; Path=/ jforum-secure-sso=""; Path=/
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN

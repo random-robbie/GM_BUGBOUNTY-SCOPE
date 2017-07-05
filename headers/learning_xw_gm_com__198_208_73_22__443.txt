@@ -1,0 +1,7 @@
+Accept-Ranges: bytes
+Content-Length: 1933
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 15:01:35 GMT
+Last-Modified: Tue, 27 May 2014 20:13:26 GMT
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Servlet/2.5 JSP/2.1

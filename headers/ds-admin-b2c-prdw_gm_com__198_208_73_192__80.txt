@@ -1,0 +1,11 @@
+Cache-Control: private
+Content-Length: 1392
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 14:40:46 GMT
+Server: Microsoft-IIS/8.5
+Set-Cookie: gm_ds_sess=5dfc5fce7e65483aa8145c4f4f95e62d; expires=Wed, 05-Jul-2017 14:55:45 GMT; path=/; secure; HttpOnly
+X-Content-Type-Options: nosniff
+X-Ds-Server: R009
+X-Frame-Options: SAMEORIGIN
+X-Origin: 198.208.150.49
+X-Rp: 1

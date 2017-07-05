@@ -1,0 +1,14 @@
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Connection: close
+Content-Length: 10397
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Jul 2017 15:04:02 GMT
+Etag: "06165e8b316dd1075543079f3f9fcf6d"
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+Set-Cookie: _aspera_faspex_session=BAh7CDoPc2Vzc2lvbl9pZCIlYTM2M2M0ZWEyMGI3MTEzZjdmMTBkYmYxODY5YWFlYjQ6EF9jc3JmX3Rva2VuSSIxUEhuU2ZjckpEU0FoTVgvMFRxdVArN2h4VjN3eGJwUUFnUGFnWFY5cVNGVT0GOgZFRkkiCmZsYXNoBjsHRklDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6Rmxhc2hIYXNoewY6CmVycm9ySSIABjsHRgY6CkB1c2VkewY7CUY%3D--4d465e5233d93fff566288c166f5fec1b3e122a9; path=/aspera/faspex; secure; HttpOnly
+Status: 200
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 667

@@ -1,0 +1,513 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE>
+<html>
+<head>
+<title>ACDelco TDS</title>
+<link rel="stylesheet" type="text/css" href="../styles/screen.css">
+	<script language=JavaScript type="text/javascript" src="../scripts/browserDetective.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/resizeBugFix.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/findDOM.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/date-picker.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/setMargin.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/setNav.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/newWindow.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/rollover.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/insureScroll.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/chgTNImg2.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/popup.js"></script>
+	<script language=JavaScript type="text/javascript" src="../scripts/trim.js"></script>
+	<script language=JavaScript> var javascript_version = 1.0;</script>
+	<script language="JavaScript1.1">  javascript_version = 1.1;</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+</head>
+
+
+
+
+
+
+
+
+
+
+
+ 
+<body text=#000000 bgColor=#ffffff leftMargin=0 topMargin=0 marginheight="0" marginwidth="0" onload="MM_preloadImages('../images/acdtds_top_r4_c1_f2.gif','../images/acdtds_top_r5_c11_f2.jpg','../images/acdtds_top_r7_c11_f2.jpg','../images/acdtds_top_r9_c11_f2.jpg','../images/acdtds_top_r10_c1_f2.gif','../images/acdtds_top_r12_c11_f2.jpg','../images/acdtds_top_r14_c11_f2.jpg');">
+
+	<table cellspacing="0" cellpadding="0" width="690" border="0">
+		<tbody>
+			<tr>
+				<td><img height=85 src="../images/acdtds_top_r1_c1.jpe" width=313 border=0></td>
+				<td width=377 height=85><img height=85 src="../images/acdtds_top_r1_c25.jpe" width=377  border=0></td>
+			</tr>
+		</tbody>
+	</table>
+	<table border="0" cellpadding="0" cellspacing="0" width="690" height="20">
+		<tr>
+			<td class="redBG" align="right"><a class="whitetext" href="../htmls/en/help.html"  target="help">Help</a>&nbsp;&nbsp;</td>
+		</tr>
+	</table>
+</body>
+</html>
+
+
+<!DOCTYPE>
+<html>
+<head>
+<title>ACDelco TDS</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="description" content="Add Category">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+<script language="JavaScript1.2">
+
+//Popup Box- By Jim Silver @ jimsilver47@yahoo.com
+//Exlusive permission granted to Dynamic Drive (http://dynamicdrive.com) to include this script in their DHTML archive.
+//For full source code, terms of use, and 100's more scripts, visit http://www.dynamicdrive.com
+
+var ns4=document.layers
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+//drag drop function for NS 4////
+/////////////////////////////////
+
+var dragswitch=0
+var nsx
+var nsy
+var nstemp
+var selectedLang=null;  //modified by 31766
+
+if (top != self) {top.location=self.location;}
+
+function drag_dropns(name){
+if (!ns4)
+return
+temp=eval(name)
+temp.captureEvents(Event.MOUSEDOWN | Event.MOUSEUP)
+temp.onmousedown=gons
+temp.onmousemove=dragns
+temp.onmouseup=stopns
+}
+
+function gons(e){
+temp.captureEvents(Event.MOUSEMOVE)
+nsx=e.x
+nsy=e.y
+}
+function dragns(e){
+if (dragswitch==1){
+temp.moveBy(e.x-nsx,e.y-nsy)
+return false
+}
+}
+
+function stopns(){
+temp.releaseEvents(Event.MOUSEMOVE)
+}
+
+//drag drop function for ie4+ and NS6////
+/////////////////////////////////
+
+
+function drag_drop(e){
+if (ie4&&dragapproved){
+crossobj.style.left=tempx+event.clientX-offsetx
+crossobj.style.top=tempy+event.clientY-offsety
+return false
+}
+else if (ns6&&dragapproved){
+crossobj.style.left=tempx+e.clientX-offsetx
+crossobj.style.top=tempy+e.clientY-offsety
+return false
+}
+}
+
+
+function initializedrag(e){
+crossobj=ns6? document.getElementById("showimage") : document.all.showimage
+
+var firedobj=ns6? e.target : event.srcElement
+var topelement=ns6? "HTML" : "BODY"
+
+while (firedobj.tagName!=topelement&&firedobj.id!="dragbar"){
+firedobj=ns6? firedobj.parentNode : firedobj.parentElement
+}
+
+if (firedobj.id=="dragbar"){
+offsetx=ie4? event.clientX : e.clientX
+offsety=ie4? event.clientY : e.clientY
+
+tempx=parseInt(crossobj.style.left)
+tempy=parseInt(crossobj.style.top)
+
+dragapproved=true
+document.onmousemove=drag_drop
+}
+}
+document.onmousedown=initializedrag
+document.onmouseup=new Function("dragapproved=false")
+
+////drag drop functions end here//////
+
+function hidebox(){
+if (ie4||ns6)
+crossobj.style.visibility="hidden"
+else if (ns4)
+document.showimage.visibility="hide"
+}
+
+// Following function (check) added by Vinayak
+function check()
+	{
+		if(document.loginform.username.value == "")
+		{
+			if(document.loginform.password.value == "")
+			{
+				//alert("Please input your login name and password below to enter");
+				alert("Please input your Login Name and Password below to Enter");
+				document.loginform.username.focus();
+				return false;
+			}
+			else
+			{
+				alert("Please input your login name below to enter");  //modified by 31766	
+				document.loginform.username.focus();
+				return false;
+			
+			}
+		}
+		if(document.loginform.password.value == "")
+		{
+			alert("Please input your password below to enter");  //modified by 31766	
+			document.loginform.password.focus();
+			return false;
+		}
+	}
+	
+	
+
+</script>
+</head>
+<body text=#000000 bgColor=#ffffff leftMargin=0 topMargin=0
+	onload="MM_preloadImages('../images/acdtds_top_r4_c1_f2.gif','../images/acdtds_top_r5_c11_f2.jpg','../images/acdtds_top_r7_c11_f2.jpg','../images/acdtds_top_r9_c11_f2.jpg','../images/acdtds_top_r10_c1_f2.gif','../images/acdtds_top_r12_c11_f2.jpg','../images/acdtds_top_r14_c11_f2.jpg');"
+	marginheight="0" marginwidth="0">
+	
+	 
+     
+	<table cellspacing=0 cellpadding=0 width=690 border=0>
+		<tbody>
+		
+		 <!-- modified by 31766 for lang selection dropdown start -->
+		 <td height='3'/>
+			<tr align=right>
+				<td>
+
+<!-- Modified by 31766  begin -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Modified by 31766  end -->
+
+<!-- Drop down Language Selection Box -->
+			
+			Select Language
+			<select id="locales" onchange="location.href=document.getElementById('locales').value">  
+				      
+					  
+					 	
+  							
+    								<option value="en" selected>
+    								English
+    								</option>
+  							
+  							
+						 
+					  
+					 	
+  							
+  							
+    							<option value="home?language=fr">
+								Français
+								</option>
+  							
+						 
+					  
+					 	
+  							
+  							
+    							<option value="home?language=es">
+								Español
+								</option>
+  							
+						 
+					         
+			</select> 
+					
+<!-- Drop down Language Selection Box -->
+					<hr width=690 color="red"></td>
+			</tr>
+          <!-- modified by 31766 for lang selection dropdown end -->
+			<tr>
+				<td valign=top><img height=119 
+					src="../images/en/acdtds_top_r3_c1.gif" width=500 border=0>			 
+               
+				<table cellspacing=0 cellpadding=0 width="100%" border=0>
+					<tbody>
+						<tr>
+							
+							<!--
+	
+	
+	<!-- 
+	<td><a onmouseover="MM_swapImage('NewUser','','../images/NewUser_1.gif',1);" onmouseout=MM_swapImgRestore() href="registerview"><img height=47             src="../images/NewUser.gif" width=171 border=0 name=NewUser></a></td>
+	
+	-->
+
+							<td>
+								<table border="0" cellpadding="0" cellspacing="0" width="345">
+									<tr>
+										<td>
+											 
+                            <form name="loginform" method="POST" autocomplete="off" action="authenticateuser" onSubmit="return check()">
+                      
+
+														<table border='0' vspace='0' hspace='0' cellpadding='0'
+															cellspacing='2'>
+															<tr>
+																<td width="10">&nbsp;</td>
+																<td colspan="2">
+																		<table width='100%' border='0' vspace='0' hspace='0' cellpadding='0' cellspacing='0'>
+																				<tr>
+																					
+																					<td align='left'>
+																						<font class="brightheader">
+																							Please input your Login Name and Password below to Enter.
+																						</font>
+																					</td>
+																					
+																				</tr>
+																				<tr>
+																					<td>&nbsp;</td>
+																				</tr>
+																			</table></td>
+															</tr>
+															<tr>
+																<td class="whiteBG" width="10">&nbsp;</td>
+																<td class="brightBG" align='left'><font
+																	class="smallheaderwhite">Login Name&nbsp;&nbsp</font>
+																</td>
+																<td class="whiteBG"><input type='text'
+																	name='username' value=''
+																	maxlength='12'>
+																</td>
+															</tr>
+
+
+															<tr>
+																<td width="10">&nbsp;</td>
+																<td class="brightBG" align='left'><font
+																	class="smallheaderwhite">Password
+																</font></td>
+																<td class="whiteBG"><input type='password'
+																	name='password' value=''></td>
+															</tr>
+															<tr>
+																<td class="whiteBG" align='center' colspan="3"><font
+																	class="notRegisteredText">Not a registered user
+																		<a href="registerview" class="link">click here 
+																	</a> </font>
+																</td>
+															</tr>
+															<tr>
+																<td>&nbsp;</td>
+																<td class="whiteBG" colspan="3" align='center'><input
+																	type='submit' name='submit'
+																	value="Enter">
+															</tr>
+														</table>
+                                                                                                 <input type="hidden" name="webCSRF" value="Is77VRRyvXSo9Nb02WnOuV7sMWSBRAE7Xh29ZQMdDZwY">
+													</form>
+										</td>
+									</tr>
+								</table></td>
+							<!-- Vinayak's code addition ends here -->
+							
+							<td rowspan=3>&nbsp;</td>
+							<td rowspan=3>
+								<table cellspacing=0 cellpadding=0 border=0>
+									<tbody>
+										
+										<tr>
+											<td nowrap><font class="td"><a href="viewstore">ACDelco Online Store
+												</a>
+											</font>
+											</td>
+										</tr>
+										<tr>
+											<td nowrap><font class="td"><a href="contactus">Contact Us
+												</a>
+											</font>
+											</td>
+										</tr>
+										<tr>
+											<td nowrap><font class="td"><a href="techinfo">GM Tech Info
+												</a>
+											</font>
+											</td>
+										</tr>
+										<tr>
+											<td nowrap><font class="td"><a
+													href="login?from=keycodepurchase">Purchase Key Code and/or Immobilizer
+												</a>
+											</font>
+											</td>
+										</tr>
+										<td nowrap><font class="td"><a
+												href="subscribehome">Service and Programming Information
+											</a>
+										</font>
+										</td>
+										</tr>
+										<tr>
+											<td>&nbsp;</td>
+										</tr>
+										<tr>
+											<td nowrap><font class="td"><a
+													href="http://desdealerservices.com/services/standards.php"
+													target="_blank">System Requirements 
+												</a>
+											</font>
+											</td>
+										</tr>
+									</tbody>
+								</table></td>
+						</tr>
+
+						<tr>
+							<td><img height=10 src="../images/acdtds_top_r15_c1.gif"
+								width=171 border=0>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<img height=8 src="../images/blue_line.gif" width=500 border=0>
+				</td>
+				<td align=right>
+					<table cellspacing=0 cellpadding=0 border=0>
+						<tbody>
+							<tr>
+								<td align=right><img height=20 src="../images/spacer.gif"
+									width=1 border=0>
+								</td>
+							</tr>
+						</tbody>
+					</table></td>
+			</tr>
+		</tbody>
+	</table>
+	<table cellspacing=0 cellpadding=0 border=0 align="center" width="690">
+		<table>
+			<tr>
+				<td>
+					<table cellspacing=0 cellpadding=0 border=0 align="center">
+						<tbody>
+							<tr>
+								<td>
+									<table cellspacing=0 cellpadding=0 border=0>
+										<tr>
+											<td class="whiteBG" width="280"><font
+												class="smalltextheader "> If you need assistance within the US or Canada please contact 1-800-825-5886 prompt #3.
+													<BR> In Australia use 0011-1-800-825-5886 prompt #3.<BR>
+												<BR> If you have forgot your password please <a href="forgotpass"
+													class="link">click
+												</a> here. </font></td>
+										</tr>
+										<tr>
+											<td>&nbsp;</td>
+										</tr>
+									</table></td>
+								<td width="20">&nbsp</td>
+								<td>
+									<table cellspacing=0 cellpadding=0 border=0>
+										<tr>
+
+											<td width="10">&nbsp;
+											</td>
+											<td align=left><a href="techinfo"><img height=66
+													alt="GM Tech Info" src="../images/en/gm_tech_info.gif"
+													width=220 border=0>
+											</a>
+											</td>
+											<td width=40 height=98><img height=1
+												src="../images/spacer.gif" width=40 border=0>
+											</td>
+											<td align=middle width=150>
+											</td>
+										</tr>
+									</table></td>
+							</tr>
+						</tbody>
+					</table></td>
+			</tr>
+		</table>
+</body>
+<script language="javascript">
+	document.loginform.username.focus();
+</script>
+</html>
+
+
+<html>
+<title>ACDelco TDS</title>
+<head>
+
+      <noscript><a href="#"
+      target=_blank><img height=1 src="../images/button3.gif" width=1
+      border="0"> </a></noscript>
+<script language="JavaScript">
+
+</script>
+
+      
+        <noscript><a href="#" target=_blank><img height=1 src="../images/button3.gif" width=1 border="0"></a></noscript>
+</head>
+<body>
+
+
+    <table cellspacing=0 cellpadding=0 border=0>
+        <tr>
+            <td class="redBG" width="690" height="20">&nbsp;</td>
+        </tr>
+    </table>
+
+    <table >
+        <tr>
+            <td width="200">	
+            <td colspan=3><a href="http://www.gm.com/copyright">&copy; 2005 ACDelco TechConnect </a></td>
+            <td colspan=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.gm.com/privacy">Privacy Statement</a></td>
+        </tr>
+    </table>
+</body>
+</html>

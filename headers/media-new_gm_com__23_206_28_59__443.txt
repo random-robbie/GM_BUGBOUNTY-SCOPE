@@ -1,0 +1,11 @@
+Accept-Ranges: bytes
+Cache-Control: max-age=0, no-cache, no-store
+Connection: keep-alive
+Content-Length: 869
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:32:24 GMT
+Etag: "a67c20053f6980b206621d08fd7ac2a5:1470956684"
+Expires: Wed, 05 Jul 2017 14:32:24 GMT
+Last-Modified: Thu, 11 Aug 2016 23:04:44 GMT
+Pragma: no-cache
+Server: Apache

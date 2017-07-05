@@ -1,0 +1,14 @@
+Cache-Control: no-cache, no-store
+Connection: Keep-Alive
+Content-Language: en
+Content-Length: 7331
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 05 Jul 2017 14:40:51 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Keep-Alive: timeout=5, max=99
+Server: Oracle-HTTP-Server-11g
+Set-Cookie: redirect_url=https://mygm.pp.gm.com/; path=/
+X-Frame-Options: SameOrigin
+X-Oracle-Dms-Ecid: 005KtBwZOer1NeISQqATOt0006RC000Ejp
+X-Powered-By: Servlet/2.5 JSP/2.1
+X-Xss-Protection: 0

@@ -1,0 +1,5 @@
+Connection: close
+Content-Length: 168
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 15:06:11 GMT
+Server: Oracle-iPlanet-Web-Proxy-Server/4.0

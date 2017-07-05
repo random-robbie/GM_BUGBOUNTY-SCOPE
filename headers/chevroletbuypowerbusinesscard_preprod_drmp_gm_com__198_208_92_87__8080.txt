@@ -1,0 +1,7 @@
+Access-Control-Allow-Origin: *
+Date: Wed, 05 Jul 2017 14:55:38 GMT
+Server: DRMP Web Server
+Transfer-Encoding: chunked
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Length: 439
+Content-Type: text/html
+Date: Wed, 05 Jul 2017 14:34:57 GMT
+Etag: "1b7-5530867563247"
+Keep-Alive: timeout=15, max=100
+Last-Modified: Wed, 28 Jun 2017 17:20:42 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN

@@ -1,0 +1,8 @@
+Connection: Keep-Alive
+Content-Length: 291
+Content-Type: text/html;charset=ISO-8859-1
+Date: Wed, 05 Jul 2017 15:05:36 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache
+Set-Cookie: JSESSIONID=D2A1CF393E08085EA5FA5CDCB2B18B35; Path=/cqlogin/; Secure; HttpOnly;HttpOnly;Secure
+X-Frame-Options: SAMEORIGIN
